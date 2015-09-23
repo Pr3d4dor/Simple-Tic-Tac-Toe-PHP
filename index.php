@@ -12,7 +12,7 @@
 
 		if (($box[0] == 'x' && $box[1] == 'x' && $box[2] == 'x') || ($box[3] == 'x' && $box[4] == 'x' && $box[5] == 'x') || ($box[6] == 'x' && $box[7] == 'x' && $box[8] == 'x') || ($box[0] == 'x' && $box[3] == 'x' && $box[6] == 'x') || ($box[1] == 'x' && $box[4] == 'x' && $box[7] == 'x') || ($box[2] == 'x' && $box[5] == 'x' && $box[8] == 'x') || ($box[0] == 'x' && $box[4] == 'x' && $box[8] == 'x') || ($box[2] == 'x' && $box[4] == 'x' && $box[6] == 'x')){         
 			$winner = 'x';         
-			printf ("<center><br><span class='help-block alert-danger'> X wins!</span>
+			printf ("<center><br><span class='help-block alert-success'> X wins!</span>
 <span class='help-block alert-danger'></span> <br></center>");     
 		}
 
