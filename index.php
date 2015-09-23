@@ -85,7 +85,7 @@
 			}
 		?>
 	</form>
-	<center><h4>Instrucoes: Voce eh o jogador "X" jogando contra o computador "O".<br>Escolha um quadrado disponivel em que queira marcar, digite X e aperte GO.</h4></center>
+	<center><h4>Instrucoes: Voce eh o jogador "X" jogando contra o computador "O".<br>Escolha um quadrado disponivel em que queira marcar, digite x (minusculo) e aperte GO.</h4></center>
 	<footer class="footer">
         <p class="text-center">Desenvolvido por <a href="https://github.com/Pr3d4dor/">Gianluca Bine</a>
     </footer>
